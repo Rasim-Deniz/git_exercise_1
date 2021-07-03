@@ -1,7 +1,11 @@
 Turkey
+<<<<<<< HEAD
 Denmark
 Germany
 Italy
 France
 Armenia
 Spain
+=======
+Denmark
+>>>>>>> parent of 555dc59 (added country of germany)
