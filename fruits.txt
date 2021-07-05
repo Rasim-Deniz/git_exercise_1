@@ -1,3 +1,10 @@
 apple
+<<<<<<< HEAD
+cherry
+banana
+apricot
+plum
+=======
 apricot
 banana
+>>>>>>> 148f740ae2040b21d3d7933bf174ead6ca6e0153
